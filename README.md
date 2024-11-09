@@ -56,7 +56,7 @@ for the user if needed.
 
 ### Built With
 
-* [Python]](https://www.python.org/)
+* [Python](https://www.python.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
